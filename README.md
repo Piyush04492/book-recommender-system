@@ -119,20 +119,6 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Application
-
-```bash
-streamlit run app.py
-```
-
-The application will start on:
-
-```text
-http://localhost:8501
-```
-
----
-
 ## 🧠 Recommendation Methodology
 
 ### Popularity-Based Recommendation
@@ -160,21 +146,9 @@ Books are ranked based on:
 5. Create Pivot Table
 6. Compute Similarity Matrix
 7. Generate Recommendations
-8. Deploy using Streamlit
 
 ---
 
-## 📷 Application Preview
-
-Add screenshots of your Streamlit application here.
-
-Example:
-
-* Home Page
-* Popular Books Section
-* Recommendation Results
-
----
 
 ## 🔮 Future Improvements
 
@@ -191,8 +165,6 @@ Example:
 **Piyush**
 
 Electronics and Communication Engineering (ECE) Student
-
-Interested in Machine Learning, Data Science, and Full-Stack Development.
 
 GitHub: https://github.com/Piyush04492
 
